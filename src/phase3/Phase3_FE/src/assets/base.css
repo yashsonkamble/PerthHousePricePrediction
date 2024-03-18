@@ -1,0 +1,52 @@
+.el-form-item__content > .el-select {
+    width: 100%;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+ -webkit-appearance: none;
+ margin: 0;
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.el-form-item__label {
+    font-weight: bold;
+}
+
+.card-header {
+    font-size: 36px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.action_btns {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.price-range {
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+}
+
+.el-popover__title {
+    font-size: 14px;
+}
+
+.center {
+    text-align: center;
+}
+
+.el-result {
+    padding: 0px !important;
+}
+
+.graph_img {
+    height: 80%;
+    width: 60%;
+}
